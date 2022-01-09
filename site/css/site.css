@@ -29,7 +29,7 @@
 }
 
 div{
-	background-color: grey;
+	background-color: lightgrey;
 }
 
 #a {
@@ -39,10 +39,12 @@ div{
 
 #b {
 	background-color: blue;
+	color: white;
 }
 
 #c {
 	background-color: green;
+	color: white;
 }
 /* large devices */
 @media (min-width: 992px) {
