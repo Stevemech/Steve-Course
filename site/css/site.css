@@ -33,18 +33,15 @@ div{
 }
 
 #a {
-	background-color: red;
-	color: white;
+	background-color: indianred;
 }
 
 #b {
-	background-color: blue;
-	color: white;
+	background-color: lightskyblue;
 }
 
 #c {
-	background-color: green;
-	color: white;
+	background-color: lightgoldenrodyellow;
 }
 /* large devices */
 @media (min-width: 992px) {
