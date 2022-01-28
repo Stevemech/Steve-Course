@@ -1,0 +1,28 @@
+body {
+  font-size: 16px;
+  background-color: lightslategrey;
+}
+
+.text {
+  padding-left: 2.5%;
+  padding-right: 2.5%;s
+}
+
+#menu {
+  font-size: 200%;
+  color: white;
+}
+
+.col-md-1 {
+  background-color: whitesmoke;
+}
+
+#chicken {
+  padding-top: 1%;
+  font-size: 20px;
+}
+
+.navbar-header {
+  border: 2px solid rgba(125, 125, 125, 0.7);
+  border-trans
+}
